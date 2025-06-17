@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hi%20I'm%20Karthik%20Muthuirulappan%20👋&fontSize=35&fontColor=ffffff" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hi%20I'm%20Karthik%20Muthuirulappan%20👋&fontSize=30&fontColor=ffffff" alt="header">
 </p>
 
-<h2 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | MySQL | MongoDB | REST APIs | JWT Authentication</h2>
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | MySQL | MongoDB</h3>
 
 ---
 
@@ -15,48 +15,53 @@
 
 ---
 
-## 🌟 Profile Summary
+## 👨‍💻 About Me
 
-🔧 Engineered scalable enterprise-level web applications with strong backend architecture and responsive frontend design.  
-🔐 Implemented advanced security protocols using JWT, OAuth2, and Role-Based Access Control.  
-🚀 Delivered full-stack solutions integrating Spring Boot Microservices with React.js and REST APIs.  
-📊 Optimized database performance in MySQL and MongoDB for large-scale data management.  
-🛠 Utilized Agile methodologies for sprint planning, version control, debugging, and clean code delivery.  
-🎯 Certified Full Stack Java Developer with multiple industry-ready projects.
-
----
-
-## 💼 Certifications
-
-- 🎓 Certified Full Stack Java Developer — GUVI | HCL | IITM Incubated Company
-- 🎓 Backend: Spring Boot, REST API, JPA, Hibernate, JWT Security
-- 🎓 Frontend: React.js, React Router, Axios, Bootstrap
+🎯 Passionate Full Stack Java Developer with strong problem-solving and debugging skills.  
+💻 Expertise in developing scalable web applications using Spring Boot & React.js.  
+🔐 Skilled in secure authentication systems (JWT, Role-Based Access Control).  
+🚀 Actively building real-time projects, learning & contributing.  
+🎓 Certified Full Stack Developer (GUVI | HCL | IITM Incubated Company).
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 Tech Stack Highlights
 
-### 🔖 Online Bus Ticket Booking Application  
-- 🛠 Designed end-to-end bus booking system with search, booking, payment & PDF generation.
-- 🔒 Implemented JWT-secured authentication and Role-Based Authorization.
-- 🔗 [GitHub Repository](https://github.com/mkarthik2006/Bus_Ticket_Booking_Application_Project_3)
+### 💻 Backend
+- Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, REST API
 
-### 🔖 Patient Medicine & Appointment Management System  
-- 📅 Developed patient scheduling, medicine prescription, and appointment workflows.
-- 🔒 Secured backend operations with token-based authorization and secure REST endpoints.
-- 🔗 [GitHub Repository](https://github.com/mkarthik2006/Patient_Medicine_AppointmentSystem_Application_Project_2)
+### 🌐 Frontend
+- React.js, React Router, Axios, HTML5, CSS3, Bootstrap, Thymeleaf
 
-### 🔖 Employee Management System  
-- 📊 Constructed full CRUD operations for employee data management with responsive UI.
-- 🔗 [GitHub Repository](https://github.com/mkarthik2006/Employee_Management_Application_Project_1)
+### 🗄️ Databases
+- MySQL, MongoDB
+
+### 🔐 Security
+- JWT Authentication, Role-Based Access Control
+
+### 🛠 Tools
+- Git, GitHub, Docker, Postman, Swagger, Maven, IntelliJ IDEA, VS Code
 
 ---
 
-## 🛠 Tech Stack Expertise
+## 🏆 Certifications
 
-| Backend  | Frontend | Database | Security | Tools |
-| -------- | -------- | -------- | -------- | -------- |
-| Java, Spring Boot, Spring MVC, JPA, Hibernate | React.js, React Router, Axios, Thymeleaf, HTML, CSS, Bootstrap | MySQL, MongoDB | JWT Authentication, RBAC | Git, GitHub, Docker, Swagger, Postman, Maven, IntelliJ, VS Code |
+- ✅ Full Stack Java Developer - GUVI | HCL | IITM Incubated Company
+- ✅ Java Backend Development: Spring Boot, REST API, JPA, Hibernate, JWT
+- ✅ React Frontend Development: React.js, Axios, Bootstrap
+
+---
+
+## 💼 My Projects
+
+### 🚀 Online Bus Ticket Booking Application
+🔗 [GitHub Repository](https://github.com/mkarthik2006/Bus_Ticket_Booking_Application_Project_3)
+
+### 🚀 Patient Medicine & Appointment Management System
+🔗 [GitHub Repository](https://github.com/mkarthik2006/Patient_Medicine_AppointmentSystem_Application_Project_2)
+
+### 🚀 Employee Management System
+🔗 [GitHub Repository](https://github.com/mkarthik2006/Employee_Management_Application_Project_1)
 
 ---
 
@@ -69,7 +74,7 @@
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkarthik2006&theme=radical" alt="activity graph" />
@@ -77,7 +82,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/mkarthik2006/mkarthik2006/blob/output/github-contribution-grid-snake.svg)
 
@@ -85,9 +90,9 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: karthikm930620@gmail.com  
-- 🔗 LinkedIn: [Karthik Muthuirulappan](https://www.linkedin.com/in/karthik-muthuirulappan-333aba320/)  
-- 💻 GitHub: [mkarthik2006](https://github.com/mkarthik2006)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-muthuirulappan-333aba320/)
+- 🧑‍💻 [GitHub](https://github.com/mkarthik2006)
+- 📧 Email: karthikm930620@gmail.com
 
 ---
 
