@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hi%20I'm%20Karthik%20Muthuirulappan%20👋&fontSize=35&fontColor=ffffff" alt="header">
 </p>
 
-<h2 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | REST APIs | MySQL | MongoDB</h2>
+<h2 align="center"> Full Stack Java Developer | Spring Boot | React.js | REST APIs | MySQL | MongoDB</h2>
 
 ---
 
@@ -43,7 +43,7 @@ GitHub: github.com/mkarthik2006
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🚌 Online Bus Ticket Booking Application  
 - Engineered full-stack bus ticket booking system with payment integration & PDF generation.
