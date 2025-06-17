@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hi%20I'm%20Karthik%20Muthuirulappan%20👋&fontSize=30&fontColor=ffffff" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Hi%20I'm%20Karthik%20Muthuirulappan%20👋&fontSize=35&fontColor=ffffff" alt="header">
 </p>
 
-<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | MySQL | MongoDB</h3>
+<h2 align="center">🚀 Full Stack Java Developer | Spring Boot | React.js | REST APIs | MySQL | MongoDB</h2>
 
 ---
 
@@ -17,51 +17,56 @@
 
 ## 👨‍💻 About Me
 
-🎯 Passionate Full Stack Java Developer with strong problem-solving and debugging skills.  
-💻 Expertise in developing scalable web applications using Spring Boot & React.js.  
-🔐 Skilled in secure authentication systems (JWT, Role-Based Access Control).  
-🚀 Actively building real-time projects, learning & contributing.  
-🎓 Certified Full Stack Developer (GUVI | HCL | IITM Incubated Company).
+```yaml
+Name: Karthik Muthuirulappan
+Role: Full Stack Java Developer
+Location: Theni, India
+Email: karthikm930620@gmail.com
+LinkedIn: linkedin.com/in/karthik-muthuirulappan-333aba320
+GitHub: github.com/mkarthik2006
+```
+
+🎯 Engineered enterprise-level full stack web applications using Spring Boot & React.js.  
+🔧 Developed scalable microservices architecture with clean backend logic and responsive frontend UI.  
+🔐 Implemented JWT authentication, role-based access control, and secure REST APIs.  
+📊 Optimized database performance using MySQL and MongoDB.  
+🚀 Delivered multiple real-time projects using Agile methodology.  
+🎓 Certified Full Stack Java Developer by GUVI | HCL | IITM Incubated Company.
 
 ---
 
-## 🚀 Tech Stack Highlights
+## 💼 Certifications
 
-### 💻 Backend
-- Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, REST API
-
-### 🌐 Frontend
-- React.js, React Router, Axios, HTML5, CSS3, Bootstrap, Thymeleaf
-
-### 🗄️ Databases
-- MySQL, MongoDB
-
-### 🔐 Security
-- JWT Authentication, Role-Based Access Control
-
-### 🛠 Tools
-- Git, GitHub, Docker, Postman, Swagger, Maven, IntelliJ IDEA, VS Code
+- ✅ Certified Full Stack Java Developer — GUVI | HCL | IITM Incubated Company
+- ✅ Mastered Backend Development: Spring Boot, REST API, JPA, Hibernate, JWT Security
+- ✅ Specialized in Frontend Development: React.js, Axios, Bootstrap
 
 ---
 
-## 🏆 Certifications
+## 🚀 Projects
 
-- ✅ Full Stack Java Developer - GUVI | HCL | IITM Incubated Company
-- ✅ Java Backend Development: Spring Boot, REST API, JPA, Hibernate, JWT
-- ✅ React Frontend Development: React.js, Axios, Bootstrap
+### 🚌 Online Bus Ticket Booking Application  
+- Engineered full-stack bus ticket booking system with payment integration & PDF generation.
+- Designed seat selection, schedule search, role-based authentication with Spring Boot + React.js.
+- 🔗 [View Repository](https://github.com/mkarthik2006/Bus_Ticket_Booking_Application_Project_3)
+
+### 🏥 Patient Medicine & Appointment Management System  
+- Built secured patient scheduling & medicine management system using Spring Boot REST APIs.
+- Integrated CRUD operations with JWT secured login, role-based user control.
+- 🔗 [View Repository](https://github.com/mkarthik2006/Patient_Medicine_AppointmentSystem_Application_Project_2)
+
+### 👨‍💼 Employee Management System  
+- Developed full employee management CRUD system using Spring Boot REST API & Thymeleaf.
+- Implemented backend data handling with MySQL, Hibernate ORM & JPA.
+- 🔗 [View Repository](https://github.com/mkarthik2006/Employee_Management_Application_Project_1)
 
 ---
 
-## 💼 My Projects
+## 🛠 Technical Skills
 
-### 🚀 Online Bus Ticket Booking Application
-🔗 [GitHub Repository](https://github.com/mkarthik2006/Bus_Ticket_Booking_Application_Project_3)
-
-### 🚀 Patient Medicine & Appointment Management System
-🔗 [GitHub Repository](https://github.com/mkarthik2006/Patient_Medicine_AppointmentSystem_Application_Project_2)
-
-### 🚀 Employee Management System
-🔗 [GitHub Repository](https://github.com/mkarthik2006/Employee_Management_Application_Project_1)
+| Backend  | Frontend | Database | Security | Tools |
+| -------- | -------- | -------- | -------- | -------- |
+| Java, Spring Boot, Spring MVC, JPA, Hibernate | React.js, React Router, Axios, Thymeleaf, HTML, CSS, Bootstrap | MySQL, MongoDB | JWT Authentication, Role-Based Access Control | Git, GitHub, Docker, Swagger, Postman, Maven, IntelliJ, VS Code |
 
 ---
 
@@ -72,27 +77,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkarthik2006&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🔥 GitHub Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkarthik2006&theme=radical" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkarthik2006&theme=radical" alt="GitHub Activity Graph" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/mkarthik2006/mkarthik2006/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-muthuirulappan-333aba320/)
-- 🧑‍💻 [GitHub](https://github.com/mkarthik2006)
-- 📧 Email: karthikm930620@gmail.com
+- 📧 Email: karthikm930620@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/karthik-muthuirulappan-333aba320](https://www.linkedin.com/in/karthik-muthuirulappan-333aba320/)  
+- 💻 GitHub: [github.com/mkarthik2006](https://github.com/mkarthik2006)
 
 ---
 
